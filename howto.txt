@@ -1,0 +1,4 @@
+1. rename the target csv file as 'data.csv'
+2. place data.csv in the local directory
+3. open terminal in the local directory and type
+   node index.js
