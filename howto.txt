@@ -1,4 +1,4 @@
-1. open terminal in local directory, make sure you have NodeJS installed
+1. open terminal in local directory, make sure you have NodeJS installed by entering 'node -v' to check installed version.
 2. in terminal, type in 'npm i' and hit enter
 3. place the target csv in the local directory
 3. rename the target csv file as 'data.csv'
